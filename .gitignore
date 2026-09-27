@@ -279,3 +279,4 @@ cpp_patches/gemini-code-1780195377106.py
 cpp_patches/prevent_sleep_LD.py
 *.json
 data/schemas/ecosystems.schema.json
+modules/era/lua/zones/rabao/npcs/rabao_vendors.lua
